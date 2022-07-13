@@ -6,9 +6,9 @@
 
      <!--Trees-->
 
-  <project path="device/xiaomi/beryllium" name="beryllium" remote="Dooms-v" revision="Elixir" />
+  <project path="device/xiaomi/beryllium" name="beryllium" remote="Dooms-v" revision="VOS" />
   
-  <project path="device/xiaomi/sdm845-common" name="common" remote="Dooms-v" revision="SL" />
+  <project path="device/xiaomi/sdm845-common" name="common" remote="Dooms-v" revision="VOS" />
            
   <project path="vendor/xiaomi" name="vendor" remote="Dooms-v" revision="12.1" />
 
