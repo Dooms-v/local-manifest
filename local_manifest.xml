@@ -5,9 +5,9 @@
 
      <!--Trees-->
 
-  <project path="device/xiaomi/beryllium" name="ze-bery" remote="Dooms-v" revision="cherish" />
+  <project path="device/xiaomi/beryllium" name="ze-bery" remote="Dooms-v" revision="VOS" />
   
-  <project path="device/xiaomi/sdm845-common" name="common-bery" remote="Dooms-v" revision="12.1-wip" />
+  <project path="device/xiaomi/sdm845-common" name="common-bery" remote="Dooms-v" revision="VOS" />
            
   <project path="vendor/xiaomi" name="vendor-ze" remote="Dooms-v" revision="12L" />
   
