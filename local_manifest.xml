@@ -2,6 +2,7 @@
 <manifest>
   
 <remote name="Dooms-v" fetch="https://github.com/Dooms-v" />
+<remote name="github"  fetch="https://github.com/"
 
      <!--Trees-->
 
