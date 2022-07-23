@@ -9,7 +9,7 @@
   
   <project path="device/xiaomi/sdm845-common" name="common-bery" remote="Dooms-v" revision="VOS" />
            
-  <project path="vendor/xiaomi" name="vendor-ze" remote="Dooms-v" revision="12L" />
+  <project path="vendor/xiaomi" name="vendor" remote="Dooms-v" revision="12L" />
   
   <remove-project name="hardware_oneplus" />
 
