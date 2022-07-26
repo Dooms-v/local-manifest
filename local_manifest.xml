@@ -5,16 +5,12 @@
 
      <!--Trees-->
 
-  <project path="device/xiaomi/beryllium" name="ze-bery" remote="Dooms-v" revision="VOS" />
+  <project path="device/xiaomi/beryllium" name="cr-bery" remote="Dooms-v" revision="cr" />
   
-  <project path="device/xiaomi/sdm845-common" name="common-bery" remote="Dooms-v" revision="VOS" />
+  <project path="device/xiaomi/sdm845-common" name="cr-com" remote="Dooms-v" revision="cr" />
            
-  <project path="vendor/xiaomi" name="vendor" remote="Dooms-v" revision="12L" />
-  
-  <remove-project name="hardware_oneplus" />
+  <project path="vendor/xiaomi" name="vendor" remote="Dooms-v" revision="12.1" />
 
-  <project path="kernel/xiaomi/sdm845" name="kernel_xiaomi_sdm845" remote="Dooms-v" revision="12.1-silver" />
-
-  <project path="prebuilts/clang/host/linux-x86/clang-proton" name="proton-clang" remote="Dooms-v" revision="master" clone-depth="1" />
+  <project path="kernel/xiaomi/sdm845" name="SC-REINGZ" remote="Dooms-v" revision="12" />
   
 </manifest>
