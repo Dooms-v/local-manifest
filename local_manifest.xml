@@ -13,4 +13,6 @@
 
   <project path="kernel/xiaomi/sdm845" name="SC-REINGZ" remote="Dooms-v" revision="12" />
   
+  <project path="hardware/xiaomi" name="hardware" remote="Dooms-v" revision="12.1" />
+  
 </manifest>
