@@ -5,9 +5,9 @@
 
      <!--Trees-->
 
-  <project path="device/xiaomi/beryllium" name="cr-bery" remote="Dooms-v" revision="cr" />
+  <project path="device/xiaomi/beryllium" name="bliss" remote="Dooms-v" revision="bliss" />
   
-  <project path="device/xiaomi/sdm845-common" name="cr-com" remote="Dooms-v" revision="cr" />
+  <project path="device/xiaomi/sdm845-common" name="com" remote="Dooms-v" revision="kscope" />
            
   <project path="vendor/xiaomi" name="vendor" remote="Dooms-v" revision="12.1" />
 
