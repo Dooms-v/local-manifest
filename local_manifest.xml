@@ -5,13 +5,13 @@
 
      <!--Trees-->
 
-  <project path="device/xiaomi/beryllium" name="bliss" remote="Dooms-v" revision="bliss" />
+  <project path="device/xiaomi/beryllium" name="bery" remote="Dooms-v" revision="12.1" />
   
-  <project path="device/xiaomi/sdm845-common" name="com" remote="Dooms-v" revision="kscope" />
+  <project path="device/xiaomi/sdm845-common" name="com" remote="Dooms-v" revision="12.1" />
            
   <project path="vendor/xiaomi" name="vendor" remote="Dooms-v" revision="12.1" />
 
-  <project path="kernel/xiaomi/sdm845" name="SC-REINGZ" remote="Dooms-v" revision="12" />
+  <project path="kernel/xiaomi/sdm845" name="CR-SC" remote="Dooms-v" revision="12.1-silver" />
   
   <project path="hardware/xiaomi" name="hardware" remote="Dooms-v" revision="12.1" />
   
