@@ -15,6 +15,4 @@
   
   <project path="hardware/xiaomi" name="hardware" remote="Dooms-v" revision="arrow-12.1" />
   
-  <project path="device/qcom/sepolicy_vndr" name="sepolicy_vndr" remote="Dooms-v" revision="12.1" />
-  
 </manifest>
