@@ -13,8 +13,6 @@
 
   <project path="kernel/xiaomi/sdm845" name="SC-V12" remote="Dooms-v" revision="12" />
   
-  <remove-project name="android_hardware_xiaomi" />
-  
   <project path="hardware/xiaomi" name="hardware" remote="Dooms-v" revision="arrow-11.0" /> 
   
 </manifest>
